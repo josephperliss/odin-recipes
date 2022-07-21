@@ -1,0 +1,17 @@
+/* Index CSS */
+.text{
+    text-align:center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: bisque;
+}
+.text.title{
+    color: rgb(177, 113, 113);
+    font-size: 60px;
+}
+.image{
+    text-align: center;
+}
+.format{
+    background-color: aqua;
+}
